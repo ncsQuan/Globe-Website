@@ -1,0 +1,19 @@
+{
+  "hash": "27119fb3",
+  "browserHash": "534187cf",
+  "optimized": {
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "c31ac260",
+      "needsInterop": false
+    },
+    "three/addons/capabilities/WebGL.js": {
+      "src": "../../node_modules/three/examples/jsm/capabilities/WebGL.js",
+      "file": "three_addons_capabilities_WebGL__js.js",
+      "fileHash": "978a87ab",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
